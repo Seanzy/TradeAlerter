@@ -15,6 +15,8 @@ Done! Got it working pretty easily! If my script name is "symbols.py" I type imp
 
 Also need to make sure the appropriate libraries are imported in the Anaconda testenv. 
 
-Next: adding a message box
+Next: adding a message box Done. 
+
+Next: How to read my file of pre-defined prices to set the alerts? 
 
 
