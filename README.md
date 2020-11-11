@@ -20,3 +20,10 @@ Next: adding a message box Done.
 Next: How to read my file of pre-defined prices to set the alerts? 
 
 
+11/8/20 - will start adding docstrings to my functions
+
+11/11/20 - Automating histograms with Python so I can save time working with Excel files. 
+
+Next: Figure out why I can't push to git. Done. I had local changes that weren't reflected on my remote (online). So I added the HistBuilder file I needed and removed my 2 recent commits so that my local was no longer ahead of remote. 
+
+Next: create 1 modules file that every file can import

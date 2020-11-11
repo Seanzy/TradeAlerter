@@ -9,7 +9,6 @@ from tkinter import messagebox
 
 # print(sys.path)
 
-# tickers = 'UBER,AAPL'
 data = yf.download(tickers=symbols.tickers, period='5d', interval='1d')
 print(data)
 
