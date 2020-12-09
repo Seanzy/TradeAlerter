@@ -42,4 +42,8 @@ Next: read predictions file. Done.
 Next: Alert on 1 price. 
   1: find "ABC". Done. 
   2: parse predictions lines into a predictions object. Done. 
-  
+Next: reorder the code with functions at the top and vars below, function calls next. Done.
+
+12/7/20 - redoing SP 500 companies
+12/8/20 - getting trade alerter working
+12/9/20 - Connecting to web socket / API to alert on prices
