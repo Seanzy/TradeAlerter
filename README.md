@@ -47,3 +47,5 @@ Next: reorder the code with functions at the top and vars below, function calls 
 12/7/20 - redoing SP 500 companies
 12/8/20 - getting trade alerter working
 12/9/20 - Connecting to web socket / API to alert on prices
+
+Next: get histbuilder to ouput the data for main.js
