@@ -49,3 +49,4 @@ Next: reorder the code with functions at the top and vars below, function calls 
 12/9/20 - Connecting to web socket / API to alert on prices
 
 Next: get histbuilder to ouput the data for main.js
+12/11/20 - beginning to get alerts. 
