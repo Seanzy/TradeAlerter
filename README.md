@@ -51,3 +51,4 @@ Next: reorder the code with functions at the top and vars below, function calls 
 Next: get histbuilder to ouput the data for main.js
 12/11/20 - beginning to get alerts. 
 12/12/20 - Trying to work with async data in python
+12/13/20 - Comparing predictions to intraday data
