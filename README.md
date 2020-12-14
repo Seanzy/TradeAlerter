@@ -52,3 +52,7 @@ Next: get histbuilder to ouput the data for main.js
 12/11/20 - beginning to get alerts. 
 12/12/20 - Trying to work with async data in python
 12/13/20 - Comparing predictions to intraday data
+
+Next: Print a list of alerted companies
+Next: Perform loop every 20 seconds. 
+Next: If there is a new alert that there wasn't before, add an alert for that. Will this require a db or data persistence? 
