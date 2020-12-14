@@ -56,3 +56,5 @@ Next: get histbuilder to ouput the data for main.js
 Next: Print a list of alerted companies
 Next: Perform loop every 20 seconds. 
 Next: If there is a new alert that there wasn't before, add an alert for that. Will this require a db or data persistence? 
+
+12/14/20 - Testing
