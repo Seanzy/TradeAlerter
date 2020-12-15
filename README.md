@@ -58,3 +58,4 @@ Next: Perform loop every 20 seconds.
 Next: If there is a new alert that there wasn't before, add an alert for that. Will this require a db or data persistence? 
 
 12/14/20 - Testing
+12/15/20 - It made a lot spot on predictions! 
