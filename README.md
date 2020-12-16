@@ -1,9 +1,9 @@
 # TradeAlerter
 Project started 11/6/2020
 
-Couldn't find a free stock price alerter that met my needs, so I am building it from scratch
+Couldn't find a free stock price alerter that met my needs, so I am building it from scratch.
 
-I will need to keep the API key in a separate file and include that file in the .gitignore, as well as my proprietary list of symbols in a separte file. 
+I will need to keep the API key in a separate file and include that file in the .gitignore, as well as my proprietary list of symbols in a separate file. Done.
 
 tickers parameter inside of yf.download() takes a string of one or more stock symbols such as 'UBER' or 'UBER, AAPL', see link below for more details on the params
 
@@ -17,12 +17,12 @@ Also need to make sure the appropriate libraries are imported in the Anaconda te
 
 Next: adding a message box Done. 
 
-Next: How to read my file of pre-defined prices to set the alerts? 
+Next: How to read my file of pre-defined prices to set the alerts? Done. 
 
 
-11/8/20 - will start adding docstrings to my functions
+11/8/20 - will start adding docstrings to my functions. Done. 
 
-11/11/20 - Automating histograms with Python so I can save time working with Excel files. 
+11/11/20 - Automating histograms with Python so I can save time working with Excel files. Done but continuously improving. Kaizen.
 
 Next: Figure out why I can't push to git. Done. I had local changes that weren't reflected on my remote (online). So I added the HistBuilder file I needed, removed my 2 recent commits using git reset "HEAD^" twice so that my local was no longer ahead of remote. Then I force pushed my most recent old commit that had not yet been pushed to remote with:
 git push -f origin main
@@ -39,23 +39,30 @@ Next: create 1 modules file that every file can import
 12/1/20 - My histogram builder is automating now. Saves me lots of time because I don't have to do manual calculations in Excel anymore. 
 
 Next: read predictions file. Done.
-Next: Alert on 1 price. 
+Next: Alert on 1 price. Done.
   1: find "ABC". Done. 
   2: parse predictions lines into a predictions object. Done. 
 Next: reorder the code with functions at the top and vars below, function calls next. Done.
 
-12/7/20 - redoing SP 500 companies
-12/8/20 - getting trade alerter working
-12/9/20 - Connecting to web socket / API to alert on prices
+12/7/20 - redoing SP 500 companies. Done. Found new potentials. 
+12/8/20 - getting trade alerter working. Done. 
+12/9/20 - Connecting to web socket / API to alert on prices. Done. 
 
-Next: get histbuilder to ouput the data for main.js
+Next: get histbuilder to ouput the data for main.js in correct format, work in progress. 
 12/11/20 - beginning to get alerts. 
-12/12/20 - Trying to work with async data in python
-12/13/20 - Comparing predictions to intraday data
+12/12/20 - Trying to work with async data in python. Done. 
+12/13/20 - Comparing predictions to intraday data. Done. 
 
 Next: Print a list of alerted companies
-Next: Perform loop every 20 seconds. 
-Next: If there is a new alert that there wasn't before, add an alert for that. Will this require a db or data persistence? 
+Next: Perform loop every 20 seconds. Done. 
+Next: If there is a new alert that there wasn't before, add an alert for that. Will this require a db or data persistence? Work in progress. 
 
 12/14/20 - Testing
-12/15/20 - It made a lot spot on predictions! 
+12/15/20 - It made a lot of spot on predictions! 
+Next: Add automatic date calculator. Done. 
+Next: Add average predictions. 
+Next: Add indicator to show how close to low. 
+Next: Add indicator 1. Done. 
+Next: Add indicator 2. 
+Next: Add indicator 3. Done. 
+Next: Create an indicator class instead of this giant function. Need help
