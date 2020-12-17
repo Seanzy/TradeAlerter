@@ -66,3 +66,4 @@ Next: Add indicator 1. Done.
 Next: Add indicator 2. 
 Next: Add indicator 3. Done. 
 Next: Create an indicator class instead of this giant function. Need help
+12/16/20 - Improved histogram builder
