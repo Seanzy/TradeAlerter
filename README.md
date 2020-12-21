@@ -70,3 +70,4 @@ Next: Create an indicator class instead of this giant function. Need help
 12/18/20 - modified trade alerter
 12/19/20 - 
 Next: Add a timestamp for alerts
+12/20/20 - Prepping for tomorrow
