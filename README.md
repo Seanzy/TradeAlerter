@@ -72,3 +72,4 @@ Next: Create an indicator class instead of this giant function. Need help
 Next: Add a timestamp for alerts
 12/20/20 - Prepping for tomorrow
 12/22/20 - Finished adding timestamper
+12/23/20 - reorganized and restructured
