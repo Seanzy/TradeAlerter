@@ -74,3 +74,4 @@ Next: Add a timestamp for alerts
 12/22/20 - Finished adding timestamper
 12/23/20 - reorganized and restructured
 12/24/20 - Next: add indicator 4. Fixed macros for daily upkeep
+12/27/20 - applying python to bitcoin
