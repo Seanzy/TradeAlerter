@@ -77,3 +77,4 @@ Next: Add a timestamp for alerts
 12/27/20 - applying python to bitcoin
 12/28/20 - predictions are working
 12/29/20 - Lots of good information coming into trading program
+12/30/20 - Need to add a nightly plan for next day
