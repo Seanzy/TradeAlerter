@@ -79,3 +79,4 @@ Next: Add a timestamp for alerts
 12/29/20 - Lots of good information coming into trading program
 12/30/20 - Need to add a nightly plan for next day
 12/31/20 - Updated trade alerter
+1/1/20 - taking a break
