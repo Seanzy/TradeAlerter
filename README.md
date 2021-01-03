@@ -80,3 +80,4 @@ Next: Add a timestamp for alerts
 12/30/20 - Need to add a nightly plan for next day
 12/31/20 - Updated trade alerter
 1/1/20 - taking a break
+1/3/20 - Job work
