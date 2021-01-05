@@ -81,3 +81,5 @@ Next: Add a timestamp for alerts
 12/31/20 - Updated trade alerter
 1/1/20 - taking a break
 1/3/20 - Job work
+1/4/21 - Next: add last price alert
+1/5/21 - Discovered new stock that's ripping higher. 
