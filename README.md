@@ -85,3 +85,4 @@ Next: Add a timestamp for alerts
 1/5/21 - Discovered new stock that's ripping higher. 
 1/6/21 - Added a histogram
 1/7/21 - Added more timestamps
+1/8/21 - Added symbol and updated duplicate program with correct date
