@@ -86,3 +86,4 @@ Next: Add a timestamp for alerts
 1/6/21 - Added a histogram
 1/7/21 - Added more timestamps
 1/8/21 - Added symbol and updated duplicate program with correct date
+1/9/21 - Prepping for today
