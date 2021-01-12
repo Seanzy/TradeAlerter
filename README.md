@@ -88,3 +88,4 @@ Next: Add a timestamp for alerts
 1/8/21 - Added symbol and updated duplicate program with correct date
 1/9/21 - Prepping for today
 1/11/21 - Monitoring BTC
+1/12/21 - figured out how to restore firefox session! 
