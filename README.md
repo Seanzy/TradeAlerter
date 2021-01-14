@@ -90,3 +90,4 @@ Next: Add a timestamp for alerts
 1/11/21 - Monitoring BTC
 1/12/21 - figured out how to restore firefox session! 
 1/13/21 - Need to figure out why some stocks not working
+1/14/21 - Figured out why it wasn't working
