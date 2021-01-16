@@ -92,3 +92,6 @@ Next: Add a timestamp for alerts
 1/13/21 - Need to figure out why some stocks not working
 1/14/21 - Figured out why it wasn't working
 1/15/21 - Debugging another stock why isn't it working?
+  Next: adding symbols
+  Next: close and run scans, fix google search
+1/16/21 - Bug fix: symbols file was missing ticker! Duh. Will add to procedures to prevent
