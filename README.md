@@ -95,3 +95,4 @@ Next: Add a timestamp for alerts
   Next: adding symbols
   Next: close and run scans, fix google search
 1/16/21 - Bug fix: symbols file was missing ticker! Duh. Will add to procedures to prevent
+1/17/21 - Need to improve alerts system. 
