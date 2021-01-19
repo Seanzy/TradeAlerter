@@ -96,4 +96,6 @@ Next: Add a timestamp for alerts
   Next: close and run scans, fix google search
 1/16/21 - Bug fix: symbols file was missing ticker! Duh. Will add to procedures to prevent
 1/17/21 - Need to improve alerts system. 
-1/18/21 - Converting to data frames
+1/18/21 - Converting to data frames, 
+  Next: make numpy array of symbols, then others
+1/19/21: - still working on yesterday's changes
