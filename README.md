@@ -99,3 +99,4 @@ Next: Add a timestamp for alerts
 1/18/21 - Converting to data frames, 
   Next: make numpy array of symbols, then others
 1/19/21: - still working on yesterday's changes
+1/20/21 - Trying to handle volatility
