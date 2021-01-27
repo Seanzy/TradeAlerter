@@ -103,3 +103,4 @@ Next: Add a timestamp for alerts
 1/21/21 - Becoming more disciplined
 1/24/21 - Doing Bitcoin stuff
 1/25/21 - Add price of BTC to API
+1/27/21 - Need patience
