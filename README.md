@@ -106,3 +106,4 @@ Next: Add a timestamp for alerts
 1/27/21 - Need patience
 1/28/21 - Market going crazy
 1/29/21 - Good day today trading
+1/30/21 - Beginning new alert program
