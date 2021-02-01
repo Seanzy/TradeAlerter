@@ -107,4 +107,4 @@ Next: Add a timestamp for alerts
 1/28/21 - Market going crazy
 1/29/21 - Good day today trading
 1/30/21 - Beginning new alert program
-1/31/21 - Adding indicator 5
+1/31/21 - Adding indicator 5. Done. 
