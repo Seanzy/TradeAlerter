@@ -108,3 +108,4 @@ Next: Add a timestamp for alerts
 1/29/21 - Good day today trading
 1/30/21 - Beginning new alert program
 1/31/21 - Adding indicator 5. Done. 
+2/1/21 - Next: remove the stock from costbasis after it has been sold. 
