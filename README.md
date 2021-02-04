@@ -111,3 +111,4 @@ Next: Add a timestamp for alerts
 2/1/21 - Next: remove the stock from costbasis after it has been sold. 
 2/2/21 - Done with new cost basis alerter. 
 2/3/21 - Adding new alert
+2/4/21 - Taking gains
