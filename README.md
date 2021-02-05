@@ -112,3 +112,4 @@ Next: Add a timestamp for alerts
 2/2/21 - Done with new cost basis alerter. 
 2/3/21 - Adding new alert
 2/4/21 - Taking gains
+2/5/21 - Added histogram
