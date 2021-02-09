@@ -114,4 +114,5 @@ Next: Add a timestamp for alerts
 2/4/21 - Taking gains
 2/5/21 - Added histogram
 2/6/21 - Added new names yesterday and prepared for Monday. 
-2/7/21 - Bug fix, why isn't it working for certain stocks? 
+2/7/21 - Bug fix: why isn't it working for certain stocks? 
+2/8/21 - Beginning bug fix
