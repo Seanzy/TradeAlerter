@@ -117,3 +117,4 @@ Next: Add a timestamp for alerts
 2/7/21 - Bug fix: why isn't it working for certain stocks? 
 2/8/21 - Beginning bug fix
 2/9/21 - Still working on bug fix
+2/10/21 - Added symbols to fix bug
