@@ -118,3 +118,4 @@ Next: Add a timestamp for alerts
 2/8/21 - Beginning bug fix
 2/9/21 - Still working on bug fix
 2/10/21 - Added symbols to fix bug
+2/11/21 - Added a bunch of symbols
