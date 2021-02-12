@@ -119,3 +119,4 @@ Next: Add a timestamp for alerts
 2/9/21 - Still working on bug fix
 2/10/21 - Added symbols to fix bug
 2/11/21 - Added a bunch of symbols
+2/12/21 - Added additional error checking for API limit error to stop interval 
