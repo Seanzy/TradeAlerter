@@ -121,3 +121,4 @@ Next: Add a timestamp for alerts
 2/11/21 - Added a bunch of symbols
 2/12/21 - Added additional error checking for API limit error to stop interval 
 2/13/21 - Add indicator 6
+2/14/21 - Program is working okay
