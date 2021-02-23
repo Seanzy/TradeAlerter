@@ -124,3 +124,4 @@ Next: Add a timestamp for alerts
 2/14/21 - Program is working okay
 2/18/21 - Rank output? Adding indicator 6. 
 2/20/21 - Indicator 6 working. 
+2/22/21 - Continuing to add indicators
