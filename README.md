@@ -125,3 +125,4 @@ Next: Add a timestamp for alerts
 2/18/21 - Rank output? Adding indicator 6. 
 2/20/21 - Indicator 6 working. 
 2/22/21 - Continuing to add indicators
+2/24/21 - Make sure there's no extraneous text from copy pasting in the daily file from Chrome. Improved indicator 6.
